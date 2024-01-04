@@ -1,0 +1,53 @@
+# HKOI Heat
+This is a tutorial containing information and resource about HKOI Heat.
+## HKOI Error Sheet
+- list out all non-constrained cases first then remove them
+- skip questions immediately when you don’t know how to do, feel it
+- rephrase for loops for counting questions
+- rest for 1 min every 29 min
+- be extra caution 
+- list out all combinatorics case if the case is small
+- concentrated on “always”, “worst case”, “best case” words
+- $`+\:\%\:+ = +`$
+- $`+\:\%\:- = +`$
+- $`-\:\%\:+ = -`$
+- $`-\:\%\:- = -`$
+- pay attention to “at least”, “at most” key-words
+- sneak peak at the whole paper when the contest starts
+- remember your why
+- pay attention to “unsigned” and “signed” signs
+- trust your brain
+- for small combinatorics, generate the whole thing out
+- pay attention to math signs
+- focus
+- relax
+- be a OIchad
+- you can do both section A and B, do it
+- pee before contests
+- I trust you, everyone does
+
+## HKOI Heat Syllabus
+- Pythagoras theorem
+- Prime numbers
+- Permutation 
+- Combination
+- Probability
+- Modular
+- Boolean algebra
+- Computer knowledge
+- Debugging
+- Data type
+- Control structures
+- Array processing
+- String processing
+- Linear search
+- Binary search
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Quicksort
+- Merge sort
+- Counting sort 
+- Stack STL
+- Queue STL
+- Linked list STL
