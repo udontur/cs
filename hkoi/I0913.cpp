@@ -20,7 +20,6 @@ int main() {
         }
     }
     for(int i =0; i<t; i++) task[i]=n-task[i];
-    
     for(int i =0; i<n; i++){
         int o=0;
         scr[i].second.first=0;
