@@ -1,7 +1,7 @@
 # OI Resource
 A felicitous list of `Competitive Programming` resource
 
-## Table of content
+## Content
 - [Tutorials](#Tutorials)
 - [Useful tools](#Useful-tools)
 - [Online Judges](#Online-Judges)
