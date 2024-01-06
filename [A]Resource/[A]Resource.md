@@ -2,11 +2,11 @@
 A curated list of `Competitive Programming` resource
 
 ## Table of content
-- [Learn](#Learn)
+- [Tutorials](#Tutorials)
 - [Useful tools](#Useful-tools)
 - [Online Judges](#Online-Judges)
 
-## Learn
+## Tutorials
 |☆|Name|
 |-----|-----|
 |★★★|[CodeForces CP Tutorials](https://codeforces.com/blog/entry/57282)
@@ -18,21 +18,21 @@ A curated list of `Competitive Programming` resource
 |★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|
 |★★☆|[OI wiki](https://oi-wiki.org)|
 |★★☆|[Learn C++](https://www.learncpp.com/)|
-|★★☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|
+|★☆☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|
 
 ## Useful tools
 |☆|Name|
 |-----|-----|
 |★★★|[Online IDE](https://ide.judge0.com/)|
 |★★★|[Solid Problemsets](https://cses.fi/problemset/)|
-|★★☆|[CP Syllabus]([A]Resource/Books/Syllabus.pdf)|
-|★★☆|[Visualization](https://visualgo.net/en)|
+|★★★|[CP Syllabus]([A]Resource/Books/Syllabus.pdf)|
+|★★★|[Visualization](https://visualgo.net/en)|
 
 ## Online Judges
 |☆|Name|
 |-----|-----|
 |★★★|[HKOI Online Judge](https://judge.hkoi.org/)|
 |★★★|[CodeForces](https://codeforces.com/problemset)|
-|★★☆|[HackerRank](https://www.hackerrank.com/dashboard)|
 |★★☆|[LeetCode](https://leetcode.com/problemset/)|
-|★★☆|[AtCoder Japan](https://atcoder.jp/)|
+|★☆☆|[HackerRank](https://www.hackerrank.com/dashboard)|
+|★☆☆|[AtCoder Japan](https://atcoder.jp/)|
