@@ -7,7 +7,7 @@ A curated list of `Competitive Programming` resource
 - [Online Judges](#Online-Judges)
 
 ## Learn
-| ☆ | Name | Description |
+| ☆ | Name |
 | ★★★ | [CodeForces CP Tutorials](https://codeforces.com/blog/entry/57282) |
 | ★★★ | [CodeForces CP Catalog](https://codeforces.com/catalog) |
 | ★★★ | [CodeForces DSA Tutorials](https://codeforces.com/blog/entry/13529) |
