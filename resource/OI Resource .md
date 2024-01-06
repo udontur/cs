@@ -10,7 +10,9 @@ The ultimate collection
 - [USACO Guide](https://usaco.guide)
 - [Solid Problemsets](https://cses.fi/problemset/)
 - [HKOI Slides](https://hkoi.org/en/training-materials/2023/)
+- [Learn C++](https://www.learncpp.com/)
 - [Another List](https://github.com/lnishan/awesome-competitive-programming)
+- [Online IDE](https://ide.judge0.com/)
 ## Online Judges
 - [HKOI Online Judge](https://judge.hkoi.org/)
 - [CodeForces](https://codeforces.com/problemset)
