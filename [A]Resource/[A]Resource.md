@@ -26,7 +26,7 @@ A curated list of `Competitive Programming` resource
 |★★★|[Online IDE](https://ide.judge0.com/)|
 |★★★|[Solid Problemsets](https://cses.fi/problemset/)|
 |★★☆|[IOI Syllabus](https://algo.sk/ioi-syllabus/)|
-|★★☆|[Algo Visualizeation](https://visualgo.net/en)|
+|★★☆|[Visualization](https://visualgo.net/en)|
 
 ## Online Judges
 |☆|Name|
