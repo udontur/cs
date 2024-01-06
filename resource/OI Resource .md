@@ -32,8 +32,8 @@ A curated list of `Competitive Programming` resource
 ## Online Judges
 | ☆ | Name |
 |-----|------------------------|
-- [HKOI Online Judge](https://judge.hkoi.org/) |
-- [CodeForces](https://codeforces.com/problemset) |
-- [HackerRank](https://www.hackerrank.com/dashboard) |
-- [LeetCode](https://leetcode.com/problemset/) |
-- [AtCoder Japan](https://atcoder.jp/) |
+| ★★★ | [HKOI Online Judge](https://judge.hkoi.org/) |
+| ★★★ | [CodeForces](https://codeforces.com/problemset) |
+| ★★★ | [HackerRank](https://www.hackerrank.com/dashboard) |
+| ★★★ | [LeetCode](https://leetcode.com/problemset/) |
+| ★★★ | [AtCoder Japan](https://atcoder.jp/) |
