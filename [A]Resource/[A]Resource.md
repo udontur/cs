@@ -1,5 +1,5 @@
 # OI Resource
-A curated list of `Competitive Programming` resource
+A felicitous list of `Competitive Programming` resource
 
 ## Table of content
 - [Tutorials](#Tutorials)
