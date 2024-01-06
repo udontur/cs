@@ -22,14 +22,16 @@ A curated list of `Competitive Programming` resource
 | ★★★ | [HKOI Slides](https://hkoi.org/en/training-materials/2023/) |
 
 ## Useful tools
-| ☆ | Name | Description |
+| ☆ | Name |
+|-----|------------------------|
 | ★★★ | [Online IDE](https://ide.judge0.com/) |
 | ★★★ | [Solid Problemsets](https://cses.fi/problemset/) |
 | ★★★ | [IOI Syllabus](https://algo.sk/ioi-syllabus/) |
 | ★★★ | [Algo Visualizeation](https://visualgo.net/en) |
 
 ## Online Judges
-| ☆ | Name | Description |
+| ☆ | Name |
+|-----|------------------------|
 - [HKOI Online Judge](https://judge.hkoi.org/) |
 - [CodeForces](https://codeforces.com/problemset) |
 - [HackerRank](https://www.hackerrank.com/dashboard) |
