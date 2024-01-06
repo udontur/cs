@@ -23,10 +23,10 @@ A felicitous list of `Competitive Programming` resource
 ## Useful tools
 |☆|Name|
 |-----|-----|
-|★★★|[Online IDE](https://ide.judge0.com/)|
-|★★★|[Solid Problemsets](https://cses.fi/problemset/)|
-|★★★|[CP Syllabus]([A]Resource/Books/Syllabus.pdf)|
+|★★☆|[Online IDE](https://ide.judge0.com/)|
 |★★★|[Visualization](https://visualgo.net/en)|
+|★★★|[Solid Problemsets](https://cses.fi/problemset/)|
+|★★☆|[CP Syllabus]([A]Resource/Books/Syllabus.pdf)|
 
 ## Online Judges
 |☆|Name|
