@@ -8,8 +8,8 @@ A curated list of `Competitive Programming` resource
 
 ## Learn
 | ☆ | Name |
-|-----|------------------------|
-| ★★★ | [CodeForces CP Tutorials](https://codeforces.com/blog/entry/57282) |
+| ----- |------------------------|
+|★★★| [CodeForces CP Tutorials](https://codeforces.com/blog/entry/57282) |
 | ★★★ | [CodeForces CP Catalog](https://codeforces.com/catalog) |
 | ★★★ | [CodeForces DSA Tutorials](https://codeforces.com/blog/entry/13529) |
 | ★★★ | [USACO Guide](https://usaco.guide) |
