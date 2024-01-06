@@ -12,12 +12,12 @@ A curated list of `Competitive Programming` resource
 |★★★|[CodeForces CP Tutorials](https://codeforces.com/blog/entry/57282)
 |★★★|[CodeForces CP Catalog](https://codeforces.com/catalog)|
 |★★★|[CodeForces DSA Tutorials](https://codeforces.com/blog/entry/13529)|
-|★★★|[USACO Guide](https://usaco.guide)|
 |★★★|[CP Algorithms](https://cp-algorithms.com)|
-|★★★|[CP Principles](https://www.csc.kth.se/~jsannemo/slask/main.pdf)|
+|★★☆|[USACO Guide](https://usaco.guide)|
+|★★☆|[CP Principles](https://www.csc.kth.se/~jsannemo/slask/main.pdf)|
 |★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|
-|★★☆|[OI wiki](https://oi-wiki.org)|
-|★★☆|[Learn C++](https://www.learncpp.com/)|
+|★☆☆|[Learn C++](https://www.learncpp.com/)|
+|★☆☆|[OI wiki](https://oi-wiki.org)|
 |★☆☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|
 
 ## Useful tools
