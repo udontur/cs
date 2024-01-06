@@ -1,5 +1,10 @@
 # OI Resource
-The ultimate collection
+A curated list of `Competitive Programming` resource
+
+## Table of content
+[Learn](#Learn)
+[Useful tools](#Useful-tools)
+[Online Judges](#Online-Judges)
 
 ## Learn
 - [CodeForces CP Tutorials](https://codeforces.com/blog/entry/57282)
@@ -7,14 +12,14 @@ The ultimate collection
 - [CodeForces DSA Tutorials](https://codeforces.com/blog/entry/13529)
 - [USACO Guide](https://usaco.guide)
 - [CP Principles](https://www.csc.kth.se/~jsannemo/slask/main.pdf)
-- [CP algorithms](https://cp-algorithms.com)
+- [CP Algorithms](https://cp-algorithms.com)
 - [TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)
 - [OI wiki](https://oi-wiki.org)
 - [Learn C++](https://www.learncpp.com/)
 - [OpenCourse](https://github.com/prakhar1989/awesome-courses)
 - [HKOI Slides](https://hkoi.org/en/training-materials/2023/)
 
-## Useful
+## Useful tools
 - [Online IDE](https://ide.judge0.com/)
 - [Solid Problemsets](https://cses.fi/problemset/)
 - [IOI Syllabus](https://algo.sk/ioi-syllabus/)
