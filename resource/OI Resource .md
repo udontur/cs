@@ -3,7 +3,6 @@ The ultimate collection
 ## Resource
 - [CodeForces CP Tutorials](https://codeforces.com/blog/entry/57282)
 - [CodeForces CP Catalog](https://codeforces.com/catalog)
-- [CodeForces How to practice](https://codeforces.com/blog/entry/66909)
 - [CodeForces DSA Tutorials](https://codeforces.com/blog/entry/13529)
 - [TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)
 - [OI wiki](https://oi-wiki.org)
