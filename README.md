@@ -1,2 +1,2 @@
 # udontur/cp
-A collection of Competitive Programming data structure, algorithm, code and resource
+A collection of **Competitive Programming** `data structures`, `algorithms`, `codes` and `resources`
