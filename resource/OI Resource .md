@@ -2,9 +2,9 @@
 A curated list of `Competitive Programming` resource
 
 ## Table of content
-[Learn](#Learn)
-[Useful tools](#Useful-tools)
-[Online Judges](#Online-Judges)
+*[Learn](#Learn)
+*[Useful tools](#Useful-tools)
+*[Online Judges](#Online-Judges)
 
 ## Learn
 - [CodeForces CP Tutorials](https://codeforces.com/blog/entry/57282)
