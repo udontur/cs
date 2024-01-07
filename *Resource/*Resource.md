@@ -27,7 +27,7 @@ A felicitous list of `Competitive Programming` resource
 |★★★|[Visualization](https://visualgo.net/en)|
 |★★★|[Solid Problemsets](https://cses.fi/problemset/)|
 |★★☆|[Online IDE](https://ide.judge0.com/)|
-|★★☆|[CP Syllabus]([A]Resource/Books/Syllabus.pdf)|
+|★★☆|[CP Syllabus](https://github.com/udontur/cp/blob/3d8672fa52a5afa50296f22663d623ea298168d8/*Resource/Books/cph.pdf)|
 
 ## Online Judges
 |☆|Name|
