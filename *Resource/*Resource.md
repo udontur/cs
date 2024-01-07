@@ -14,7 +14,7 @@ A felicitous list of `Competitive Programming` resource
 |★★★|[CodeForces DSA Tutorials](https://codeforces.com/blog/entry/13529)|
 |★★★|[CP Algorithms](https://cp-algorithms.com)|
 |★★☆|[USACO Guide](https://usaco.guide)|
-|★★☆|[CP Handbook](*Resource/Books/cph.pdf)
+|★★☆|[CP Handbook](cph.pdf)
 |★★☆|[CP Principles](https://www.csc.kth.se/~jsannemo/slask/main.pdf)|
 |★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|
 |★☆☆|[Learn C++](https://www.learncpp.com/)|
