@@ -15,7 +15,7 @@ A felicitous list of `Competitive Programming` resource
 |★★★|[CP Algorithms](https://cp-algorithms.com)|
 |★★☆|[USACO Guide](https://usaco.guide)|
 |★★☆|[CP Handbook](Books/cph.pdf)
-|★★☆|[CP Principles](https://www.csc.kth.se/~jsannemo/slask/main.pdf)|
+|★★☆|[CP Principles](Books/paps.pdf)|
 |★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|
 |★☆☆|[Learn C++](https://www.learncpp.com/)|
 |★☆☆|[OI wiki](https://oi-wiki.org)|
@@ -27,7 +27,7 @@ A felicitous list of `Competitive Programming` resource
 |★★★|[Visualization](https://visualgo.net/en)|
 |★★★|[Solid Problemsets](https://cses.fi/problemset/)|
 |★★☆|[Online IDE](https://ide.judge0.com/)|
-|★★☆|[CP Syllabus](*Resource/Books/Syllabus.pdf)|
+|★★☆|[CP Syllabus](Books/Syllabus.pdf)|
 
 ## Online Judges
 |☆|Name|
