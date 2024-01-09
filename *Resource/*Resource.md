@@ -15,9 +15,9 @@ A felicitous list of `Competitive Programming` resource
 |★★★|[CP Algorithms](https://cp-algorithms.com)|
 |★★☆|[USACO Guide](https://usaco.guide)|
 |★★☆|[CP Handbook](Books/cph.pdf)
-|★★☆|[CP Principles](Books/paps.pdf)|
 |★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|
-|★☆☆|[Learn C++](https://www.learncpp.com/)|
+|★★☆|[Learn C++](https://www.learncpp.com/)|
+|★☆☆|[CP Principles](Books/paps.pdf)
 |★☆☆|[OI wiki](https://oi-wiki.org)|
 |★☆☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|
 
