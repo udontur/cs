@@ -7,7 +7,7 @@ A felicitous list of `Competitive Programming` resource
 - [Online Judges](#Online-Judges)
 
 ## Tutorials
-|☆|Name|
+|☆|Name|Description|
 |-----|-----|-----|
 |★★★|[CodeForces CP Tutorials](https://codeforces.com/blog/entry/57282)|Best tutorials from the cp community|
 |★★★|[CodeForces CP Catalog](https://codeforces.com/catalog)|Best tutorials from the cp community 2|
@@ -22,7 +22,7 @@ A felicitous list of `Competitive Programming` resource
 |★☆☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|T|
 
 ## Useful tools
-|☆|Name|
+|☆|Name|Description|
 |-----|-----|-----|
 |★★★|[Visualization](https://visualgo.net/en)|T|
 |★★★|[CSES](https://cses.fi/problemset/)|T|
@@ -30,7 +30,7 @@ A felicitous list of `Competitive Programming` resource
 |★★☆|[CP Syllabus](Books/Syllabus.pdf)|T|
 
 ## Online Judges
-|☆|Name|
+|☆|Name|Description|
 |-----|-----|-----|
 |★★★|[HKOI Online Judge](https://judge.hkoi.org/)|Best online judge for HK secondary students|
 |★★★|[CodeForces](https://codeforces.com/problemset)|Best online judge for competitive programming|
