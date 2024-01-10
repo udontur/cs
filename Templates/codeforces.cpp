@@ -43,8 +43,8 @@
 #define pi acos((lb)-1)
 #define ef else if
 #define es else
-#define pii(x, y) pair<x, y>
-#define vi(x) vector<x>
+#define pii(x, y) std::pair<x, y>
+#define vi(x) std::vector<x>
 #define bgn(a) (a).begin()
 #define end(a) (a).end()
 #define rbgn(a) (a).rbegin()
