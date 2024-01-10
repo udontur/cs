@@ -32,6 +32,7 @@
 #include <initializer_list>
 #include <unordered_map>
 #include <unordered_set>
+using namespace std;
 #define int long long
 #define mp make_pair
 #define pb push_back
@@ -43,8 +44,8 @@
 #define pi acos((lb)-1)
 #define ef else if
 #define es else
-#define pii(x, y) std::pair<x, y>
-#define vi(x) std::vector<x>
+#define pii(x, y) pair<x, y>
+#define vi(x) vector<x>
 #define bgn(a) (a).begin()
 #define end(a) (a).end()
 #define rbgn(a) (a).rbegin()
@@ -64,7 +65,6 @@ const int imx=9223372036854775807;
 const int imn=-9223372036854775807;
 const int mod=1e9+7;
 const int dx[4]{1, 0, -1, 0}, dy[4]{0, 1, 0, -1};
-using namespace std;
 template<class T>void xdup(vector<T> &v){sort(all(v));v.erase(unique(all(v)), end(v));}
 struct cus{static uint64_t splitmix64(uint64_t x){
 x+=0x9e3779b97f4a7c15;
