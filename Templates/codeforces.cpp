@@ -51,8 +51,7 @@
 #define rend(a) (a).rend()
 #define size(a) (a).size()
 #define all(a) bgn(a), end(a)
-#define sz(x) int((x).size())
-#define len(x) (x).length()
+#define len(x) int((x).length())
 #define itr(x) (x)::iterator
 #define rep(i, n) for(int i =0; i<(n); i++)
 #define repa(i, a, n) for(int i =(a); i<(n); i++)
