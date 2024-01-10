@@ -4,10 +4,10 @@
 #include <algorithm>
 using namespace std;
 
-vector<int> bfs(vector<int> adj[], int str, int end){
+int bfs(vector<int> adj[], int str, int end, int sz){
     queue<int> q;
-    vector<bool> vis(1001);
-    vector<int> dis(1001), par(1001);
+    vector<bool> vis(sz);
+    vector<int> dis(sz), par(sz);
     q.push(str);
     vis[str]=1;
     par[str]=-1;
@@ -23,7 +23,7 @@ vector<int> bfs(vector<int> adj[], int str, int end){
             }
         }
     }
-    return vis[end];
+    return dis[end];
     /*
     vector<int> path;
     for(int v =end; v!=-1; v=par[v]) path.push_back(v);
