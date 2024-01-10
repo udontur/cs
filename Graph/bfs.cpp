@@ -4,34 +4,29 @@
 #include <algorithm>
 using namespace std;
 
-int bfs(vector<int> adj[], int str, int fnd){
-    int par[1001];
-    vector<int> dis(1001, 1e9);
-    vector<bool> vis(1001, 0);
+vector<int> bfs(vector<int> adj[], int str, int end){
     queue<int> q;
-    dis[str]=0, par[str]=-1;
+    vector<bool> vis(1001);
+    vector<int> dis(1001), par(1001);
     q.push(str);
+    vis[str]=1;
+    par[str]=-1;
     while(!q.empty()){
-        int u=q.front();
+        int v=q.front();
         q.pop();
-        if(vis[u]) continue;
-        vis[u]=1;
-        for(int v: adj[u]){
-            if(dis[v]>dis[u]+1){
-                dis[v]=dis[u]+1;
-                par[v]=u;
-                q.push(v);
+        for(int u: adj[v]){
+            if(!vis[u]){
+                vis[u]=1;
+                q.push(u);
+                dis[u]=dis[v]+1;
+                par[u]=v;
             }
         }
     }
-    return dis[fnd];
+    return vis[end];
     /*
-    int cur=fnd;
     vector<int> path;
-    while(cur!=-1){
-        path.push_back(cur);
-        cur=par[cur];
-    }
+    for(int v =end; v!=-1; v=par[v]) path.push_back(v);
     reverse(path.begin(), path.end());
     return path;
     */
