@@ -24,36 +24,30 @@ vector<int> bfs(vector<int> adj[], int str, int fnd){
     reverse(path.begin(), path.end());
     return path;
 }
-bool cmpexp(pair<int, int> a, pair<int, int> b){
+bool cmpobs(pair<int, int> a, pair<int, int> b){
     if(a.first<b.first) return 1;
     else if(a.first==b.first)
         if(a.second<b.second) return 1;
     return 0;
 }
-using namespace std;
 int main() {
-    int p, q;
-    cin>>p>>q;
-    pair<int, int> exp[1001];
-    for(int i =0; i<q; i++) cin>>exp[i].first>>exp[i].second;
-    sort(exp, exp+q, cmpexp);
+    int p, q, lk[101][101], grid[101][101], ptr=1;
+    pair<int, int> obs[1001];
     vector<int> adj[10001];
-    int lk[101][101];
-    int ptr=1;
+    cin>>p>>q;
+    for(int i =0; i<q; i++) cin>>obs[i].first>>obs[i].second;
+    sort(obs, obs+q, cmpobs);
     for(int i =1; i<=p; i++)
         for(int j =1; j<=p; j++)
             lk[i][j]=ptr++;
-    ptr=0;
-    int grid[101][101]{1};
     for(int i =0; i<p; i++)
         for(int j =0; j<p; j++)
             grid[i][j]=1;
     ptr=0;
     for(int i =1; i<=p; i++){
         for(int j =1; j<=p; j++){
-            if(i==exp[ptr].first&&j==exp[ptr].second&&ptr<q){
-                ptr++;
-                grid[i][j]=1;
+            if(i==obs[ptr].first&&j==obs[ptr].second&&ptr<q){
+                grid[i][j]=1, ptr++;
                 continue;
             }else grid[i][j]=0;
         }
