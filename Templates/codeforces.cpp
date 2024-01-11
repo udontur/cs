@@ -57,6 +57,8 @@ using namespace std;
 #define repa(i, a, n) for(int i =(a); i<(n); i++)
 #define repr(i, a, n) for(int i =(n); i>=(a); i--)
 #define dbg(v) cout << #v << ":_" << (v) << endl;
+#define pq(x) priority_queue<x>
+#define pqb(x) priority_queue<x, vector<x>, greater<x>>
 #pragma GCC optimize("O3")
 #pragma GCC target ("avx2")
 const int inf=1e18;
