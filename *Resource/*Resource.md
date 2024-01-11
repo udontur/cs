@@ -17,7 +17,6 @@ A felicitous list of `Competitive Programming` resource
 |★★☆|[CP Handbook](Books/cph.pdf)|T|
 |★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|T|
 |★★☆|[Learn C++](https://www.learncpp.com/)|T|
-|★☆☆|[CP Principles](Books/paps.pdf)|T|
 |★☆☆|[OI wiki](https://oi-wiki.org)|T|
 |★☆☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|T|
 
