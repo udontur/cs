@@ -7,7 +7,7 @@ string lcs(string n, string s){
     int dp[1001][1001]{0}, maxv=-1, x, y;
     int nl=s.length(), sl=s.length();
     string ans="";
-    bool val=false;
+    bool val=0;
     for(int i =1; i<=nl; i++){
         for(int j =1; j<=sl; j++){
             if(s[j-1]==n[i-1]) {
@@ -21,7 +21,7 @@ string lcs(string n, string s){
             if(dp[i][j]==maxv){
                 x=i;
                 y=j;
-                val=true;
+                val=1;
                 break;
             }
         }
