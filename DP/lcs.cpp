@@ -1,8 +1,9 @@
 #include <iostream>
 #include <string>
+#include <algorithm>
 using namespace std;
 
-int lcs(string n, string s){
+string lcs(string n, string s){
     int dp[1001][1001]{0}, maxv=-1, x, y;
     int nl=s.length(), sl=s.length();
     string ans="";
@@ -31,9 +32,6 @@ int lcs(string n, string s){
         x--;
         y--;
     }
-    /*
-        reverse(ans.begin(), ans.end());
-        return ans;
-    */
-    return maxv;
+    reverse(ans.begin(), ans.end());
+    return ans;
 }
