@@ -2,7 +2,7 @@
 #include <vector>
 using namespace std;
 
-void dfs(int v, vector<int> adj[], vector<int>& vis){
+void dfs(vector<int> adj[], int v, vector<int>& vis){
     vis[v]=1;
     for(int u: adj[v])
         if(!vis[u])
