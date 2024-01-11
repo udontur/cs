@@ -31,9 +31,9 @@ int lcs(string n, string s){
         x--;
         y--;
     }
-    /***********string output*************
+    /*
         reverse(ans.begin(), ans.end());
         return ans;
-    change int to string in the function*/
+    */
     return maxv;
 }
