@@ -34,5 +34,5 @@ A felicitous list of `Competitive Programming` resource
 |★★★|[CodeForces](https://codeforces.com/problemset)|Best online judge for `Competitive Programming`|
 |★★☆|[DMOJ](https://dmoj.ca/)|Contains problems from various contests, including CCC|
 |★★☆|[LeetCode](https://leetcode.com/problemset/)|Popular online judge for interview|
-|★☆☆|[HackerRank](https://www.hackerrank.com/dashboard)|Nice problem set|
+|★★☆|[AtCoder](https://atcoder.jp/home)|Quality problems|
 
