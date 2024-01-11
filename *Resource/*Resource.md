@@ -14,19 +14,18 @@ A felicitous list of `Competitive Programming` resource
 |★★★|[CodeForces DSA Tutorials](https://codeforces.com/blog/entry/13529)|Best tutorials from the `Competitive Programming` community 2|
 |★★★|[CP Algorithms](https://cp-algorithms.com)|Well documanted algorithms for `Competitive Programming`|
 |★★☆|[USACO Guide](https://usaco.guide)|Step by step guide for `Competitive Programming`|
-|★★☆|[CP Handbook](Books/cph.pdf)|T|
-|★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|T|
-|★★☆|[Learn C++](https://www.learncpp.com/)|T|
-|★☆☆|[OI wiki](https://oi-wiki.org)|T|
-|★☆☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|T|
+|★★☆|[CP Handbook](Books/cph.pdf)|Step by step guide for `Competitive Programming` book|
+|★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|Covers most `general Computer Science` topics|
+|★★☆|[Learn C++](https://www.learncpp.com/)|Detail guide for learning `C++`|
+|★★☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|`Competitive Programming` slides|
 
 ## Useful tools
 |☆|Name|Description|
 |-----|-----|-----|
-|★★★|[Visualization](https://visualgo.net/en)|T|
-|★★★|[CSES](https://cses.fi/problemset/)|T|
-|★★☆|[Judge0 IDE](https://ide.judge0.com/)|T|
-|★★☆|[CP Syllabus](Books/Syllabus.pdf)|T|
+|★★★|[VisuAlgo](https://visualgo.net/en)|Visualizes algorithm|
+|★★★|[CSES](https://cses.fi/problemset/)|Solid problem set|
+|★★☆|[Judge0 IDE](https://ide.judge0.com/)|Great online IDE|
+|★★☆|[CP Syllabus](https://ioinformatics.org/files/ioi-syllabus-2023.pdf)|IOI syllabus|
 
 ## Online Judges
 |☆|Name|Description|
