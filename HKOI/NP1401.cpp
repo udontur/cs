@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-int32_t main(){
+int main(){
     freopen("count.in", "r", stdin);
     freopen("count.out", "w", stdout);
     int n, ans=0, t, c[10001]{0}, a[10001]{0};
