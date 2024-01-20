@@ -37,3 +37,11 @@ A curated list of `Competitive Programming` resource
 |★★☆|[LeetCode](https://leetcode.com/problemset/)|Popular online judge for interview|
 |★★☆|[AtCoder](https://atcoder.jp/home)|Quality problems|
 
+## YouTube
+|☆|Name|Description|
+|-----|-----|-----|
+|★★★|[Tushar Roy](https://www.youtube.com/@tusharroy2525)|Extremely clear explaination tutorials|
+|★★☆|[Colin Galen](https://www.youtube.com/@ColinGalen)|`Competitive Programming` Mindset|
+|★★☆|[Errichto](https://www.youtube.com/@Errichto)|General `Competitive Programming` tutorials|
+|★★☆|[William Lin](https://www.youtube.com/@tmwilliamlin168)|`Competitive Programming` tips and tricks|
+|★★☆|[WilliamFiset](https://www.youtube.com/@WilliamFiset-videos)|Explain Computer Science topics using animations|
