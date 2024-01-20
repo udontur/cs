@@ -17,7 +17,7 @@ A curated list of `Competitive Programming` resource
 |★★★|[CodeForces DSA Tutorials](https://codeforces.com/blog/entry/13529)|Best tutorials from the `Competitive Programming` community 2|
 |★★★|[CP Algorithms](https://cp-algorithms.com)|Well documanted algorithms for `Competitive Programming`|
 |★★☆|[USACO Guide](https://usaco.guide)|Step by step guide for `Competitive Programming`|
-|★★☆|[CP Handbook](Books/cph.pdf)|Step by step guide for `Competitive Programming` book|
+|★★☆|[CP Handbook](https://cses.fi/book/book.pdf)|Step by step guide for `Competitive Programming` book|
 |★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|Covers most `general Computer Science` topics|
 |★★☆|[Learn C++](https://www.learncpp.com/)|Detail guide for learning `C++`|
 |★★☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|`Competitive Programming` slides|
