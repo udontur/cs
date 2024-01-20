@@ -3,7 +3,7 @@
 #include <iostream>
 
 using namespace std;
-int n, par[100001], spd[100001];
+int par[100001], spd[100001];
 void mak(int x){
     par[x]=x;
     spd[x]=1;
