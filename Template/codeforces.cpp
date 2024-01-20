@@ -81,8 +81,8 @@ while(b>0){if(b&1) res*=a;a*=a;b>>=1;
 while(b>0){if(b&1) res=((res%mod)*(a%mod))%mod;
 a=((a%mod)*(a%mod))%mod;b>>=1;
 }return res%mod;}
-void yes(){cout << "YES\n";}
-void no(){cout << "NO\n";}
+void yes(){cout<<"YES\n";}
+void no(){cout<<"NO\n";}
 
 //udontur
 //LETS GET CODING
