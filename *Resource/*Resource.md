@@ -2,10 +2,12 @@
 A curated list of `Competitive Programming` resource
 
 ## Content
-- [Tutorials](#Tutorials)
-- [Youtube](#YouTube)
-- [Useful tools](#Useful-tools)
-- [Online Judges](#Online-Judges)
+|Title|Description|
+|-----|-----|
+|[Tutorials](#Tutorials)|`Competitive Programming` tutorials|
+|[Youtube](#YouTube)|`Competitive Programming` YouTube channels|
+|[Useful tools](#Useful-tools)|`Competitive Programming` tools|
+|[Online Judges](#Online-Judges)|`Competitive Programming` online judges|
 
 ## Tutorials
 |☆|Name|Description|
