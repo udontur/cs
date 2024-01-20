@@ -21,7 +21,6 @@ A curated list of `Competitive Programming` resource
 |★★☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|Covers most `general Computer Science` topics|
 |★★☆|[Learn C++](https://www.learncpp.com/)|Detail guide for learning `C++`|
 |★★☆|[HKOI Slides](https://hkoi.org/en/training-materials/2023/)|`Competitive Programming` slides|
-|★☆☆|[Very basic math](https://cemc.uwaterloo.ca/resources/courseware/courseware.html)|Nice and short basic math videos|
 
 ## YouTube
 |☆|Name|Description|
