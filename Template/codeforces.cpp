@@ -36,34 +36,16 @@ using namespace std;
 #define int long long
 #define mp make_pair
 #define pb push_back
-#define eb emplace_back
 #define ff first
 #define ss second
 #define lb long double
 #define ull unsigned long long
 #define pi acos((lb)-1)
-#define ef else if
-#define es else
-#define pii(x, y) pair<x, y>
-#define vi(x) vector<x>
-#define bgn(a) (a).begin()
-#define end(a) (a).end()
-#define rbgn(a) (a).rbegin()
-#define rend(a) (a).rend()
-#define all(a) bgn(a), end(a)
-#define len(x) (x).size()
-#define itr(x) (x)::iterator
-#define rep(i, n) for(int i =0; i<(n); i++)
-#define repa(i, a, n) for(int i =(a); i<(n); i++)
-#define repr(i, a, n) for(int i =(n); i>=(a); i--)
+#define all(a) (a).begin(), (a).end()
 #define dbg(v) cout << #v << ":_" << (v) << endl;
-#define pq(x) priority_queue<x>
-#define pqb(x) priority_queue<x, vector<x>, greater<x>>
-#pragma GCC optimize("O3")
-#pragma GCC target ("avx2")
 const int inf=1e18;
-const int imx=9223372036854775807;
-const int imn=-9223372036854775807;
+const int INT_MX=9223372036854775807;
+const int INT_MN=-9223372036854775807;
 const int mod=1e9+7;
 const int dx[4]{1, 0, -1, 0}, dy[4]{0, 1, 0, -1};
 template<class T>void xdup(vector<T> &v){sort(all(v));v.erase(unique(all(v)), end(v));}
