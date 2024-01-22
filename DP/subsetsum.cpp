@@ -1,4 +1,4 @@
-vector<int> knapsack(vector<int> c, int k){
+vector<int> subsetsum(vector<int> c, int k){
     bool dp[31][10001];
     int n=c.size()-1;
     for(int i =0; i<=n; i++) dp[i][0]=1;
