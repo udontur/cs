@@ -1,5 +1,5 @@
 # Dynamic Programming Guide
-[The guide](https://github.com/udontur/cp/blob/main/*Resource/*dpg.md) is used for studying dynamic programming. 
+[This guide](https://github.com/udontur/cp/blob/main/*Resource/*dpg.md) is used for studying dynamic programming. 
 
 > *Those who cannot remember the past are condemned to repeat it*
 
