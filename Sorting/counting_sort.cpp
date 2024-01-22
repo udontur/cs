@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 //no neg num
 vector<int> cntsort(vector<int> a){
     int s=10001, c[s], n=a.size(), ptr=0;

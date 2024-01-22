@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 int f(int n, int i, int j){
     if(i==1) return j;
     else if(j==n) return n+i-1;

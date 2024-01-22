@@ -1,7 +1,4 @@
-#include <iostream>
-#include <algorithm>
-using namespace std;
-bool cmp(int a, int b){ return a>b; }
+bool cmp(int a, int b){return a>b;}
 int main(){
     sort(a, a+n); //for array that have n elements, make sure to adjust it according to it's base
     sort(v.begin(), v.end()); //for other that require .begin and .end

@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 vector<int> bblsort(vector<int> a){
     int n=a.size();
     for(int i=0; i<n; i++)

@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 vector<int>ffac(int n){
     int x=sqrt(n);
     vector<int> ans;

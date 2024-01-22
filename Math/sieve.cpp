@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 vector<bool> sieve(int n){
     vector <bool> a(n+1, 1);
     a[0]=a[1]=0;

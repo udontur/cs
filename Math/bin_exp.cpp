@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 //recursive (slower)
 long long fpow(long long a, long long b){
     if(b==0) return 1;

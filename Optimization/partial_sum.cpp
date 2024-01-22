@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 int main (){
     int n, q, a[100001], c[100001], l, r;
     cin >> n >> q;

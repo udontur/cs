@@ -1,8 +1,3 @@
-//requried header
-#include <utility>
-#include <iostream>
-
-using namespace std;
 int par[100001], spd[100001];
 void mak(int x){
     par[x]=x;

@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 int par(vector<int> &a, int l, int r){
 	int piv=a[r], i=l-1;
 	for(int j =l; j<r; j++)

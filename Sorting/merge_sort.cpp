@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 void merge(vector<int> &a, int p, int q, int r){
 	int n1=q-p+1, n2=r-q, l[100001], m[100001];
 	for(int i =0; i<n1; i++) l[i]=a[p+i];

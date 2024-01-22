@@ -1,9 +1,3 @@
-#include <iostream>
-#include <vector>
-#include <queue>
-#include <algorithm>
-using namespace std;
-
 int bfs(vector<int> adj[], int str, int end, int sz){
     queue<int> q;
     vector<bool> vis(sz);

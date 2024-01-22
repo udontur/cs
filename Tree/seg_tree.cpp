@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 int seg[1000001], a[1000001];
 int cmp(int a, int b){
     /*

@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 vector<int> insort(vector<int> a){
 	int n=a.size();
     for(int i =1; i<n; i++){

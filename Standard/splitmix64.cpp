@@ -1,8 +1,3 @@
-#include <iostream>
-#include <chrono>
-#include <unordered_map>
-using namespace std;
-
 struct cus{
     static uint64_t splitmix64(uint64_t x){
         x+=0x9e3779b97f4a7c15;
@@ -16,7 +11,3 @@ struct cus{
     }
 };
 
-int main(){
-    unordered_map<int, int, cus>n;
-    return 0;
-}

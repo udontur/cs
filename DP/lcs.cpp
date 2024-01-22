@@ -1,8 +1,3 @@
-#include <iostream>
-#include <string>
-#include <algorithm>
-using namespace std;
-
 string lcs(string a, string b){
     int dp[1001][1001]{0}, an=a.length(), bn=b.length();
     for(int i =1; i<=an; i++){

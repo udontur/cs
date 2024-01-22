@@ -1,7 +1,3 @@
-#include <iostream>
-#include <vector>
-using namespace std;
-
 vector<int> prifac(int n){
     vector<int> a;
     int m=sqrt(n);

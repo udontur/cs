@@ -1,6 +1,3 @@
-#include <iostream>
-using namespace std;
-
 int bs(int arr[], int l, int r, int x){
     while(l<=r) {
         int m=l+(r-l)/2;
