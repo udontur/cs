@@ -1,5 +1,5 @@
-# udontur's Dynamic Programming roadmap
-[The roadmap](https://github.com/udontur/cp/blob/main/*Resource/*dp.md) is used for studying dynamic programming. 
+# Dynamic Programming guide
+[The guide](https://github.com/udontur/cp/blob/main/*Resource/*dp.md) is used for studying dynamic programming. 
 
 > *Those who cannot remember the past are condemned to repeat it*
 
@@ -7,7 +7,7 @@
 
 \- Dynmaic Programming quotes
 
-
+**This guide is under construction**
 ## Content
 * [Resource](#Resource)
 ### Resource
