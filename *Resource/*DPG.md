@@ -14,4 +14,5 @@
 |☆|Name|Description|
 |-|-|-|
 |★★★|[Tushar Roy's tutorial](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)||
-|★★☆|[Errichto's beginner guide](https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo)||
+|★★☆|[HKOI tutorial beginner](https://assets.hkoi.org/training2023/dp-i-adv.pdf) [HKOI Tutorial Intermediate](https://assets.hkoi.org/training2023/dp-ii.pdf) [HKOI Tutorial Optimization](https://assets.hkoi.org/training2023/dp-iii.pdf)||
+|★☆☆|[Errichto's beginner guide](https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo)||
