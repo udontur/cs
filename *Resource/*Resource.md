@@ -38,6 +38,7 @@ A curated list of `Competitive Programming` resource
 |★★★|[CSES](https://cses.fi/problemset/)|Solid problem set|
 |★★☆|[Judge0 IDE](https://ide.judge0.com/)|Great online IDE|
 |★★☆|[CP Syllabus](https://ioinformatics.org/files/ioi-syllabus-2023.pdf)|IOI syllabus|
+|★★☆|[Github markdown editor](https://jbt.github.io/markdown-editor/)|Github markdown editor|
 
 ## Online Judges
 |☆|Name|Description|
