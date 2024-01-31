@@ -15,4 +15,3 @@
 |★★☆|[HKOI tutorial optimization](https://assets.hkoi.org/training2023/dp-iii.pdf)||
 |★★☆|[LeetCode problem set](https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months)|Problems for practicing `dynamic programming`|
 |★☆☆|[Errichto's beginner guide](https://www.youtube.com/watch?v=YBSt1jYwVfU&list=PLl0KD3g-oDOGJUdmhFk19LaPgrfmAGQfo)|A video guide for starting `dynamic programming`|
-
