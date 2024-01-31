@@ -15,7 +15,6 @@
 |$O(n)$|$10^{7}$|
 |$O(\sqrt n)$|$10^{14}$|
 |$O(\log n)$|$10^{18}$|
-|$O(1)$|$\infty$|
 
 ### UWaterloo competition date
 ```
