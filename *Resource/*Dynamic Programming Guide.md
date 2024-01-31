@@ -61,7 +61,7 @@ Bottom-Up will be used in this guide as
 |-|-|
 
 **Coin Change (Limited)**
-|[Tutorial](https://www.youtube.com/watch?v=Y0ZqKpToTic)|[Practice](about:blank)|
+|[Tutorial](https://www.youtube.com/watch?v=Y0ZqKpToTic)|[Practice(https://youtube.com/watch?v=LbQk3bVVMO8)|
 |-|-|
 
 **Number of Ways Coins Formation**
