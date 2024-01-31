@@ -1,5 +1,6 @@
-# HKOI Heat
+# HKOI Heat Notes
 This is a tutorial containing information and resource about HKOI Heat.
+Under contsturction
 ## HKOI Error Sheet
 - list out all non-constrained cases first then remove them
 - skip questions immediately when you don’t know how to do, feel it
