@@ -6,7 +6,7 @@
 **This guide is under construction**
 ## Content
 * [Resource](#Resource)
-### Resource
+### Resource (Credit)
 |☆|Name|Description|
 |-|-|-|
 |★★★|[Tushar Roy's tutorial](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)|Clear and detailed explaination of `dynamic programming` problems|
