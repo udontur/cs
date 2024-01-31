@@ -28,7 +28,5 @@ DP uses result that has been computed to compute the current result.
 DP optimizes your algorithm in exchange of space.
 ### Classic problems
 **Find the N-th fibonacci number**
-
-> [Tutorial](https://assets.hkoi.org/training2023/dp-i-adv.pdf#page=10)
-[Video](https://www.youtube.com/watch?v=LwZRsM7qhrI)
-[Practice](https://leetcode.com/problems/fibonacci-number/description/)
+|[Tutorial](https://assets.hkoi.org/training2023/dp-i-adv.pdf#page=10)|[Video](https://www.youtube.com/watch?v=LwZRsM7qhrI)|[Practice](https://leetcode.com/problems/fibonacci-number/description/)|
+|-|-|-|
