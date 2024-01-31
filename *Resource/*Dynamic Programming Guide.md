@@ -3,8 +3,6 @@
 
 > *Those who cannot remember the past are condemned to repeat it*
 
-> *Being greedy does not always yield the optimal outcome*
-
 \- Dynmaic Programming quotes
 
 **This guide is under construction**
