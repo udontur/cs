@@ -3,8 +3,6 @@
 
 > *Those who cannot remember the past are condemned to repeat it*
 
-\- Dynmaic Programming quotes
-
 **This guide is under construction**
 ## Content
 * [Resource](#Resource)
