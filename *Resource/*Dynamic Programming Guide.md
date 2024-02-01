@@ -20,7 +20,6 @@
 |★★☆|[HKOI tutorial optimization](https://assets.hkoi.org/training2023/dp-iii.pdf)||
 |★★☆|[LeetCode problem set](https://leetcode.com/tag/dynamic-programming/)|Problems for practicing `dynamic programming`|
 |★★☆|[GeeksForGeeks problem set](https://www.geeksforgeeks.org/explore?page=1&category=Dynamic%20Programming&sortBy=submissions)|Problems for practicing `dynamic programming`|
-
 ### What is DP in short
 DP uses result that has been computed to compute the current result.
 
@@ -82,6 +81,10 @@ Bottom-Up will be used in this guide as
 
 **Longest Increasing Subsequence**
 |[Tutorial](https://www.youtube.com/watch?v=CE2b_-XfVDk)|[Practice](https://leetcode.com/problems/longest-increasing-subsequence/description/)|
+|-|-|
+
+**2D Maximum Subarrat Sum**
+|[Tutorial](https://www.youtube.com/watch?v=yCQN096CwWM)|[Practice](https://www.geeksforgeeks.org/problems/maximum-sum-rectangle2948/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)|
 |-|-|
 
 **Matrix Chain Multiplication**
