@@ -6,14 +6,16 @@
 ### Math for OI and fun
 1. [Algebra 1](https://www.khanacademy.org/math/algebra)
 2. [Algebra 2](https://www.khanacademy.org/math/algebra2)
-3. [Geometry](https://www.khanacademy.org/math/geometry)
+3. [3D Geometry](https://www.khanacademy.org/math/geometry/hs-geo-solids)
 4. [Trigonometry](https://www.khanacademy.org/math/trigonometry)
-6. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-5. [Pre-calculus](https://www.khanacademy.org/math/precalculus)
-7. [Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
-8. [Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
-9. [Multi-variable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
-10. [Differential equations](https://www.khanacademy.org/math/differential-equations)
+5. [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
+6. [Combinatorics](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations)
+7. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+8. [Pre-calculus](https://www.khanacademy.org/math/precalculus)
+9. [Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+10. [Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
+11 [Multi-variable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+12. [Differential equations](https://www.khanacademy.org/math/differential-equations)
     
 ### Time complexity
 |Big-O|n|
