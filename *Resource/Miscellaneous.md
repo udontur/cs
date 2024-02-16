@@ -4,7 +4,7 @@
 [Github markdown editor](https://jbt.github.io/markdown-editor/)
 
 ### Math for OI and fun
-- [ ] [Algebra 1](https://www.khanacademy.org/math/algebra)
+- [x] [Algebra 1](https://www.khanacademy.org/math/algebra)
 - [ ] [Algebra 2](https://www.khanacademy.org/math/algebra2)
 - [ ] [3D Geometry](https://www.khanacademy.org/math/geometry/hs-geo-solids)
 - [ ] [Trigonometry](https://www.khanacademy.org/math/trigonometry)
