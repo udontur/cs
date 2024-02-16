@@ -14,7 +14,7 @@
 8. [Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
 9. [Multi-variable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 10. [Differential equations](https://www.khanacademy.org/math/differential-equations)
-11. 
+    
 ### Time complexity
 |Big-O|n|
 |-----|-----|
