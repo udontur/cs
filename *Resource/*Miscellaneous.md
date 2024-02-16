@@ -14,7 +14,7 @@
 8. [Pre-calculus](https://www.khanacademy.org/math/precalculus)
 9. [Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 10. [Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
-11 [Multi-variable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+11. [Multi-variable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 12. [Differential equations](https://www.khanacademy.org/math/differential-equations)
     
 ### Time complexity
