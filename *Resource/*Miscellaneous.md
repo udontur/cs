@@ -3,6 +3,18 @@
 ### Links
 [Github markdown editor](https://jbt.github.io/markdown-editor/)
 
+### Math for OI and fun
+1. [Algebra 1](https://www.khanacademy.org/math/algebra)
+2. [Algebra 2](https://www.khanacademy.org/math/algebra2)
+3. [Geometry](https://www.khanacademy.org/math/geometry)
+4. [Trigonometry](https://www.khanacademy.org/math/trigonometry)
+6. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+5. [Pre-calculus](https://www.khanacademy.org/math/precalculus)
+7. [Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+8. [Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
+9. [Multi-variable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+10. [Differential equations](https://www.khanacademy.org/math/differential-equations)
+11. 
 ### Time complexity
 |Big-O|n|
 |-----|-----|
@@ -18,7 +30,7 @@
 
 ### UWaterloo competition date
 ```
-    Name             Join     Date
+       Name             Join     Date
 Canadian Computing     Feb 15   Feb 22
 Pascal   (Grade 9)     Feb 08   Feb 29
 Cayley   (Grade 10)    Feb 08   Feb 29
@@ -39,3 +51,4 @@ A & B = min(A, B)
 A ^ B = abs(A - B)
 Definition of submask: A is a submask of B if all the 1's (binary) in A appears in B.
 ```
+
