@@ -4,18 +4,18 @@
 [Github markdown editor](https://jbt.github.io/markdown-editor/)
 
 ### Math for OI and fun
-1. [Algebra 1](https://www.khanacademy.org/math/algebra)
-2. [Algebra 2](https://www.khanacademy.org/math/algebra2)
-3. [3D Geometry](https://www.khanacademy.org/math/geometry/hs-geo-solids)
-4. [Trigonometry](https://www.khanacademy.org/math/trigonometry)
-5. [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
-6. [Combinatorics](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations)
-7. [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
-8. [Pre-calculus](https://www.khanacademy.org/math/precalculus)
-9. [Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
-10. [Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
-11. [Multi-variable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
-12. [Differential equations](https://www.khanacademy.org/math/differential-equations)
+-[] [Algebra 1](https://www.khanacademy.org/math/algebra)
+-[] [Algebra 2](https://www.khanacademy.org/math/algebra2)
+-[] [3D Geometry](https://www.khanacademy.org/math/geometry/hs-geo-solids)
+-[] [Trigonometry](https://www.khanacademy.org/math/trigonometry)
+-[] [Probability](https://www.khanacademy.org/math/statistics-probability/probability-library)
+-[] [Combinatorics](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations)
+-[] [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
+-[] [Pre-calculus](https://www.khanacademy.org/math/precalculus)
+-[] [Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+-[] [Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
+-[] [Multi-variable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+-[] [Differential equations](https://www.khanacademy.org/math/differential-equations)
     
 ### Time complexity
 |Big-O|n|
