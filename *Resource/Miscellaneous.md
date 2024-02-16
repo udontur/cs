@@ -11,6 +11,7 @@
 - [ ] [Probability (Small)](https://www.khanacademy.org/math/statistics-probability/probability-library)
 - [ ] [Combinatorics (Small)](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations)
 - [ ] [Linear Algebra (Medium)](https://www.khanacademy.org/math/linear-algebra)
+
 - [ ] [Differential Calculus (Large)](https://www.khanacademy.org/math/differential-calculus)
 - [ ] [Integral Calculus (Large)](https://www.khanacademy.org/math/integral-calculus)
 - [ ] [Multi-variable Calculus (Large)](https://www.khanacademy.org/math/multivariable-calculus)
