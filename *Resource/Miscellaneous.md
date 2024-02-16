@@ -3,7 +3,7 @@
 ### Links
 [Github markdown editor](https://jbt.github.io/markdown-editor/)
 
-### Math for OI and fun
+### Math
 - [ ] [Algebra (Large)](https://www.khanacademy.org/math/algebra-home)
 - [ ] [Coordinate (Small)](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic)
 - [ ] [Circle (Small)](https://www.khanacademy.org/math/geometry-home/cc-geometry-circles)
@@ -11,7 +11,7 @@
 - [ ] [Probability (Small)](https://www.khanacademy.org/math/statistics-probability/probability-library)
 - [ ] [Combinatorics (Small)](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations)
 - [ ] [Linear Algebra (Medium)](https://www.khanacademy.org/math/linear-algebra)
-
+<br>
 - [ ] [Differential Calculus (Large)](https://www.khanacademy.org/math/differential-calculus)
 - [ ] [Integral Calculus (Large)](https://www.khanacademy.org/math/integral-calculus)
 - [ ] [Multi-variable Calculus (Large)](https://www.khanacademy.org/math/multivariable-calculus)
