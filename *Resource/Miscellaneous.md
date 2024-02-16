@@ -7,14 +7,14 @@
 - [ ] [Algebra (Large)](https://www.khanacademy.org/math/algebra-home)
 - [ ] [Coordinate (Small)](https://www.khanacademy.org/math/geometry-home/analytic-geometry-topic)
 - [ ] [Circle (Small)](https://www.khanacademy.org/math/geometry-home/cc-geometry-circles)
-- [ ] [Trigonometry (Small)](https://www.khanacademy.org/math/trigonometry)
+- [ ] [Trigonometry (Medium)](https://www.khanacademy.org/math/trigonometry)
 - [ ] [Probability (Small)](https://www.khanacademy.org/math/statistics-probability/probability-library)
 - [ ] [Combinatorics (Small)](https://www.khanacademy.org/math/statistics-probability/counting-permutations-and-combinations)
 - [ ] [Linear Algebra (Medium)](https://www.khanacademy.org/math/linear-algebra)
-- [ ] [Differential Calculus (Medium)](https://www.khanacademy.org/math/differential-calculus)
-- [ ] [Integral Calculus (Medium)](https://www.khanacademy.org/math/integral-calculus)
-- [ ] [Multi-variable Calculus (Medium)](https://www.khanacademy.org/math/multivariable-calculus)
-- [ ] [Differential equations (Medium)](https://www.khanacademy.org/math/differential-equations)
+- [ ] [Differential Calculus (Large)](https://www.khanacademy.org/math/differential-calculus)
+- [ ] [Integral Calculus (Large)](https://www.khanacademy.org/math/integral-calculus)
+- [ ] [Multi-variable Calculus (T)](https://www.khanacademy.org/math/multivariable-calculus)
+- [ ] [Differential equations (T)](https://www.khanacademy.org/math/differential-equations)
     
 ### Time complexity
 |Big-O|n|
