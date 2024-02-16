@@ -13,8 +13,8 @@
 - [ ] [Linear Algebra (Medium)](https://www.khanacademy.org/math/linear-algebra)
 - [ ] [Differential Calculus (Large)](https://www.khanacademy.org/math/differential-calculus)
 - [ ] [Integral Calculus (Large)](https://www.khanacademy.org/math/integral-calculus)
-- [ ] [Multi-variable Calculus (T)](https://www.khanacademy.org/math/multivariable-calculus)
-- [ ] [Differential equations (T)](https://www.khanacademy.org/math/differential-equations)
+- [ ] [Multi-variable Calculus (Large)](https://www.khanacademy.org/math/multivariable-calculus)
+- [ ] [Differential equations (Large)](https://www.khanacademy.org/math/differential-equations)
     
 ### Time complexity
 |Big-O|n|
