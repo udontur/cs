@@ -1,5 +1,5 @@
 # udontur/cp (please star ⭐)
-[<img width="300px" src="https://github.com/udontur/udontur/blob/945a7126093f0729022e609502e18c4b99d9ba40/brain.png"/>](https://github.com/udontur)
+[<img width="300px" src="https://github.com/udontur/udontur/blob/3c310baa4d79e3929f23e1dbc6a8bef6df88d6e3/image/brain.png"/>](https://github.com/udontur)
 ## Description
 A collection of **Competitive Programming** `data structures`, `algorithms`, `codes` and `resources`
 ## Content
