@@ -44,6 +44,16 @@ Euclid   (Grade 12)    Mar 07   Apr 04
 Canadian Senior        Oct 19   Nov 16
 Canadian Intermediate  Oct 19   Nov 16
 ```
+### Olympiad in Informatics competition date
+```
+    Name       Date
+SDIC          Sep 18
+NOIP          Nov 18
+HKOI Heat     Nov 11
+HKOI Final    Dec 16
+CCC           Feb 15
+HKSSCC        Jul 6
+```
 
 ### Bit Property
 ```
