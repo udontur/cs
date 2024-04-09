@@ -1,7 +1,9 @@
-int bfs(vector<int> adj[], int str, int end, int sz){
+vector<int> adj[]
+
+int bfs(int str, int end){
     queue<int> q;
-    vector<bool> vis(sz);
-    vector<int> dis(sz), par(sz);
+    vector<bool> vis();
+    vector<int> dis(), par();
     q.push(str);
     vis[str]=1;
     par[str]=-1;
