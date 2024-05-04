@@ -55,7 +55,7 @@ A curated list of `Competitive Programming` and `Math` resource
 |★☆☆|[DMOJ](https://dmoj.ca/)|Contains problems from various contests, including CCC|
 |★☆☆|[CSES](https://cses.fi/problemset/)|Solid problem set|
 
-## Competition
+## Competitions
 |Name|Date (Apply)|Description|
 |-----|-----|-----|
 |[CSP](https://hkoi.org/zh/sdic-intro/)|1 Sep|Chinese regional programming competition (SDIC Heat)|
