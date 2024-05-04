@@ -4,4 +4,4 @@
 
 ### Solution: [Link](https://github.com/udontur/cp/tree/main/Solutions/HKOI) (In the same folder)
 
-> wy_hadrianlau account currently unavailable due to the changing of school
+> wy_hadrianlau's account is currently unavailable due to the changing of school
