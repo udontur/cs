@@ -1,4 +1,4 @@
-# udontur/cp 🐢
+# udontur/cs 🐢
 A collection of **Competitive Programming** `data structures`, `algorithms`, `codes` and `resources`
 
 These code's variable and size decleration are not set. 
