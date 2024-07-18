@@ -19,19 +19,20 @@ Feel free to use any code! If you found any bugs in the codes, please repot the 
 
 Happy competitive programming! 
 
+Highlight: [Resource](a-resource/a-resource.md)
+
 ## Content
 |Name|Description|
 |-----|-----|
-|[Resource](*Resource)|Resource for learning|
-|[Dynamic Programming](DP)|Dynamic Programming code|
-|[Graph](Graph)|Graph Theory code|
-|[Solutions](Solutions)|Udontur's solution accross different online judges|
-|[Math](Math)|Mathematics code|
-|[Optimization](Optimization)|Optimization code|
-|[Others](Others)|Others code|
-|[Searching](Searching)|Searching code|
-|[Sorting](Sorting)|Sorting code|
-|[Standard](Standard)|Standard data structure code|
-|[Template](Template)|Template starter code|
-|[Tree](Tree)|Tree code|
+|[Resource](a-resource)|Resource for learning|
+|[Graph](graph)|Graph Theory code|
+|[Searching](search)|Searching code|
+|[Math](math)|Mathematics code|
+|[Optimization](optimize)|Optimization code|
+|[Dynamic Programming](dp)|Dynamic Programming code|
+|[Tree](tree)|Tree code|
+|[Sorting](sort)|Sorting code|
+|[Solutions](solution)|Udontur's solution accross different online judges|
+|[Template](template)|Template starter code|
+|[Others](other)|Other code|
 
