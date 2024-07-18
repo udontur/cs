@@ -15,7 +15,7 @@
 ## About
 udontur/cs is a one-stop resource vault for competitive programming. It contain code and resources from the internet.
 
-Feel free to use any code! If you found any bugs in the codes, please repot a bug [here](https://github.com/udontur/cs/issues/new). 
+Feel free to use any code! If you found any bugs in the codes, please repot the bug [here](https://github.com/udontur/cs/issues/new). 
 
 Happy competitive programming! 
 
