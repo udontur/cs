@@ -30,8 +30,7 @@ A curated list of `Competitive Programming` and `Math` resource
 |★☆☆|[Colin Galen](https://www.youtube.com/@ColinGalen)|`Competitive Programming` Mindset|
 |★☆☆|[Errichto](https://www.youtube.com/@Errichto)|General `Competitive Programming` tutorials|
 |★☆☆|[William Lin](https://www.youtube.com/@tmwilliamlin168)|`Competitive Programming` tips and tricks|
-
-
+|★☆☆|[Ryan's tutorial](https://ryanstutorials.net/problem-solving-skills/)|Short and simple tutorials|
 
 ## Useful tools
 |☆|Name|Description|
