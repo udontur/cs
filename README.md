@@ -13,13 +13,13 @@
 </div>
 
 ## About
-udontur/cs is a one-stop resource vault for competitive programming. It contain code and resources from the internet.
+```udontur/cs``` is a one-stop resource vault for competitive programming.
 
-Feel free to use any code! If you found any bugs in the codes, please repot the bug [here](https://github.com/udontur/cs/issues/new). 
+⭐ Highlight: [Resource](a-resource/a-resource.md)
 
-Happy competitive programming! 
+🐞 If you found bugs, please repot the bug [here](https://github.com/udontur/cs/issues/new). 
 
-Highlight: [Resource](a-resource/a-resource.md)
+🎉 Happy competitive programming! (Star the repo please 🙏)
 
 ## Content
 |Name|Description|
