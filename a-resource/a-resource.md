@@ -40,6 +40,7 @@ A curated list of `Competitive Programming` and `Math` resource
 |★★★|[Math is Fun](https://www.mathsisfun.com/)|Quick math concept lookup|
 |★★★|[PDFDrive](https://pdfdrive.com)|PDF Search Engine|
 |★★☆|[Judge0 IDE](https://ide.judge0.com/)|Great online IDE|
+|★★☆|[Internet Archive](https://archive.org/)|Past websites, free media resource|
 |★★☆|[Paul's notes](https://tutorial.math.lamar.edu/)|Cheat sheet and notes|
 |★★☆|[Real Not Complex](https://realnotcomplex.com/)|Math resource|
 |★☆☆|[CP Syllabus](https://ioinformatics.org/files/ioi-syllabus-2023.pdf)|IOI syllabus|
