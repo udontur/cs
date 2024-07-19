@@ -18,11 +18,11 @@
 |★★☆|[VisuAlgo](https://visualgo.net/en)|Data structure and Algorithms visualizer|
 |★★☆|[Hello-Algo](https://www.hello-algo.com/en)|Data structure and Algorithms tutorial|
 |★☆☆|[TWU DSA+ Tutorial](https://web.ntnu.edu.tw/~algo/)|Computer Science tutorial|
-
 ## Math
 |☆|Name|Description|
 |-----|-----|-----|
 |★★★|[Math is Fun](https://www.mathsisfun.com/)|Simple math concept lookup|
+|★★★|[WolframAlpha](https://www.wolframalpha.com/)|All in one math calculator|
 |★★☆|[Real Not Complex](https://realnotcomplex.com/)|Collection of math resource|
 |★★☆|[Organic Chemistry Tutor](https://www.youtube.com/@TheOrganicChemistryTutor)|High school math tutorials|
 |★★☆|[Khan Academy](https://www.khanacademy.org)|High school math tutorials|
