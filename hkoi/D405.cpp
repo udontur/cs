@@ -1,31 +1,43 @@
 #include <bits/stdc++.h>
+#define f first
+#define s second
 using namespace std;
-char output[38];
-int counter=0;
-char map2[20][20];
-int solve(int x, int y, int dir);
-int H, W;
-int main(){
-	cin >> H >> W;	
-	for(int y=0; y<H; y++)
-		for(int x=0; x<W; x++)
-			cin >> map2[x][y];
-	solve(0,0,1);
-	while(counter > 1) cout<<output[--counter];
-    return 0;
+char a[30][30];
+bool vis[30][30]{0};
+bool par[30][30];
+void dfs(int i, int j, bool dir){
+    if(vis[i][j]) return;
+    par[i][j]=dir;
+    vis[i][j]=1;
+    if(a[i+1][j]=='.'&&!vis[i+1][j]) dfs(i+1, j, 1); //S
+    if(a[i][j+1]=='.'&&!vis[i][j+1]) dfs(i, j+1, 0); //E
+    return;
 }
-int solve(int x, int y, int dir){	
-	if((x==(W-1))&&(y==(H-1))){
-		if(dir==1) output[counter++]='E';
-        else if(dir==0) output[counter++]='S';
-        return 1;
-	}else if(map2[x][y]=='#') return 0;
-	else if(((x+1)<W)&&(solve(x+1, y, 1)==1)){
-		output[counter++]='E';
-        return 1;
-	}else if(((y+1)<H)&&(solve(x, y+1, 0)==1)){
-		output[counter++]='S';
-        return 1;
-	}
-	return 0;
+int main() {
+    int n, m;
+    cin>>n>>m;
+    for(int i =0; i<=m+1; i++) a[0][i]='#';
+    for(int i =0; i<=m+1; i++) a[n+1][i]='#';
+    for(int i =0; i<=n+1; i++) a[i][0]='#';
+    for(int i =0; i<=n+1; i++) a[i][m+1]='#';
+    for(int i =1; i<=n; i++)
+        for(int j =1; j<=m; j++)
+            cin>>a[i][j];
+    if(a[2][1]=='.') dfs(2, 1, 1); //S
+    if(a[1][2]=='.') dfs(1, 2, 0); //E
+    int pi=n, pj=m;
+    vector<bool> pre;
+    while(1){
+        if(pi==1&&pj==1) break;
+        bool dir=par[pi][pj];
+        pre.push_back(dir);
+        if(dir) pi--;
+        else pj--;
+    }
+    reverse(pre.begin(), pre.end());
+    for(auto i: pre){
+        if(i) cout<<'S';
+        else cout<<'E';
+    }
+    return 0;
 }
