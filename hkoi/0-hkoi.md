@@ -1,6 +1,7 @@
 # HKOI Online Judge Solution
 
-### User: [wy_hadrianlau (udontur)](https://judge.hkoi.org/user/wy_hadrianlau)
+### User (WYHK): [wy_hadrianlau (udontur)](https://judge.hkoi.org/user/wy_hadrianlau)
+### User (DSC): [dsctur (udontur)](https://judge.hkoi.org/user/dsctur)
 
 ### Solution: [Link](https://github.com/udontur/cp/tree/main/Solutions/HKOI) (In the same folder)
 
