@@ -1,7 +1,7 @@
 # Curated Resource
 |☆|Description|
 |-----|-----|
-|★★★|I would pay for this resource|
+|★★★|Treasure|
 |★★☆|Extremely helpful|
 |★☆☆|Very helpful resource|
 ## Competitive Programming
