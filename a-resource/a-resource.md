@@ -3,7 +3,7 @@
 |-----|-----|
 |★★★|Treasure|
 |★★☆|Extremely helpful|
-|★☆☆|Very helpful resource|
+|★☆☆|Helpful resource|
 ## Competitive Programming
 |☆|Name|Description|
 |-----|-----|-----|
