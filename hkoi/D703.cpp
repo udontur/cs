@@ -1,21 +1,20 @@
 #include <bits/stdc++.h>
 using namespace std;
-int main(){
-    int n, cur, ele[10001], ptr[10001];
-    cin>>n>>cur;
-    for(int i =1; i<=n; i++) cin>>ele[i];
-    for(int i =1; i<=n; i++) cin>>ptr[i];
-    if(!cur){
-        cout<<"End";
+int main() {
+    int n, pt;
+    cin>>n>>pt;
+    if(pt==0){
+        cout<<"End\n";
         return 0;
     }
-    for(int i =0; i<n; i++){
-        cout<<ele[cur]<<"\n";
-        if(!ptr[cur]){
-            cout<<"End";
-            return 0;
-        }
-        cur=ptr[cur];
+    int a[100001][2];
+    for(int i =1; i<=n; i++) cin>>a[i][0];
+    for(int i =1; i<=n; i++) cin>>a[i][1];
+    while(a[pt][1]!=0){
+        cout<<a[pt][0]<<"\n";
+        pt=a[pt][1];
     }
+    cout<<a[pt][0]<<"\n";
+    cout<<"End\n";
     return 0;
 }
