@@ -20,19 +20,3 @@
 🐞 If you found bugs, please repot the bug [here](https://github.com/udontur/cs/issues/new). 
 
 🎉 Happy competitive programming! (Star the repo please 🙏)
-
-## Content
-|Name|Description|
-|-----|-----|
-|[Resource](a-resource)|Resource for learning|
-|[Graph](graph)|Graph Theory code|
-|[Searching](search)|Searching code|
-|[Math](math)|Mathematics code|
-|[Optimization](optimize)|Optimization code|
-|[Dynamic Programming](dp)|Dynamic Programming code|
-|[Tree](tree)|Tree code|
-|[Sorting](sort)|Sorting code|
-|[Solutions](solution)|Udontur's solution accross different online judges|
-|[Template](template)|Template starter code|
-|[Others](other)|Other code|
-
