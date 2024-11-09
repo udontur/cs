@@ -60,12 +60,14 @@
 |-----|-----|-----|
 |[CSP](https://hkoi.org/zh/sdic-intro/)|1 Sep|Chinese regional programming competition (SDIC Heat)|
 |[NOIP](https://hkoi.org/zh/sdic-intro/)|Final|Chinese regional programming competition (SDIC Final)|
+|[CLMC](https://cms.math.ca/competitions/clmc)|3 Oct|Canadian math competition, MC version|
+|[COMC](https://cms.math.ca/competitions/comc)|30 Oct| Canadian math olympiad|
 |[HKOI Heat](https://hkoi.org/en/)|30 Oct|Hong Kong programming competition (Heat)|
 |[HKOI Final](https://hkoi.org/en/)|Final|Hong Kong programming competition (Final)|
 |[CSIMC](https://cemc.uwaterloo.ca/contests/csimc.html)|10 Oct|Canadian math competition (hard mode)|
 |[CCC](https://cemc.uwaterloo.ca/contests/ccc-cco.html)|10 Feb|Canadian programming competition|
 |[UWMC](https://cemc.uwaterloo.ca/contests/pcf.html)|10 Feb|Canadian math competition (multipule choice)|
 |[UWWT](https://cemc.uwaterloo.ca/contests/fgh.html)|1 Mar|Canadian math competition (long answer)|
-|[Euclid](https://cemc.uwaterloo.ca/contests/euclid.html)|1 Mar|~~Canadian math competition (Senior long answer)~~ UWaterloo entrance exam|
+|[Euclid](https://cemc.uwaterloo.ca/contests/euclid.html)|1 Mar|Canadian math competition (Senior long answer) ~~UWaterloo entrance exam~~|
 |[HKSSCC Heat](https://www.cs.cityu.edu.hk/~hksc/)|20 June|CityU programming competition (Heat)|
 |[HKSSCC Final](https://www.cs.cityu.edu.hk/~hksc/)|Final|CityU programming competition (Final)|
