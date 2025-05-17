@@ -1,28 +1,31 @@
-int par[100001], spd[100001];
-void mak(int x){
-    par[x]=x;
-    spd[x]=1;
-}
-int fnd(int x){
-    if(par[x]==x) return x;
-    else return par[x]=fnd(par[x]);
-}
-void uni(int x, int y){
-    x=fnd(x);
-    y=fnd(y);
-    if(x!=y){
-        if(spd[x]<spd[y]) swap(x, y);
-        par[y]=x;
-        spd[x]+=spd[y];
+int n, totalSize;
+int id[201], sz[201];
+int find(int node) {
+    int root=node;
+    while(root!=id[root]) {
+        root=id[root];
     }
+    while(node!=id[node]) {
+        int next=id[node];
+        id[node]=root;
+        node=next;
+    }
+    return root;
 }
-int main(){
-    /*
-    mak(x);
-    fnd(x);
-    uni(x, y);
-    */
-    return 0;
+void unify(int a, int b) {
+    a=find(a);
+    b=find(b);
+    if(a==b){
+        return;
+    }
+    if(sz[a]>sz[b]){
+        sz[b]+=sz[a];
+        sz[a]=0;
+        id[b]=id[a];
+    }else{
+        sz[a]+=sz[b];
+        sz[b]=0;
+        id[a]=id[b];
+    }
+    totalSize--;
 }
-
-//can change line 19 compare function
