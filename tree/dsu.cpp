@@ -1,5 +1,5 @@
 int n, totalSize;
-int id[201], sz[201];
+int id[100001], sz[100001];
 int find(int node) {
     int root=node;
     while(root!=id[root]) {
